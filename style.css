@@ -1,0 +1,25 @@
+body{
+    color: #203748;
+    text-align: center;
+    background-color: #c9c9c9;
+}
+.kg{
+    position: relative;
+    left: 7em;
+    top: -2.65em;
+    color: #203748;
+}
+.cm{
+    position: relative;
+    left: 7em;
+    top: -2.65em;
+    color: #203748;
+}
+.altura{
+    position: relative;
+    top: -5em;
+}
+.resultado{
+    position: relative;
+    top: -10em;
+}
